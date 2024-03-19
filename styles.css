@@ -122,6 +122,7 @@ body{
     height: 50%;
     margin-top: 3%;
     margin-left: 14%;
+    cursor: pointer;
 }
 
 .middle{
@@ -172,24 +173,28 @@ body{
     margin-left: 300px;
     margin-top: 20px;
     height: 26px;
+    cursor: pointer;
 }
 
 .notif{
     margin-left: 20px;
     margin-top: 20px;
     height: 26px;
+    cursor: pointer;
 }
 
 .apps{
     margin-left: 20px;
     margin-top: 20px;
     height: 26px;
+    cursor: pointer;
 }
 
 .self{
     margin-left: 20px;
     margin-top: 20px;
     height: 26px;
+    cursor: pointer;
 }
 
 .sidebar{
