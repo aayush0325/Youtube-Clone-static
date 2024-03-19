@@ -114,6 +114,7 @@ body{
     height: 50%;
     margin-top: 3%;
     margin-left: 7%;
+    cursor: pointer;
 }
 
 
@@ -201,16 +202,27 @@ body{
 
 }
 
-.sidebutton{
+.but{
     width: 100%;
-    border: none;
+    height: 15%;
     background-color: white;
-    margin-left: 40px;
-    margin-top: 40px;
-    cursor: pointer;
     text-align: center;
+    align-items: center;
+    cursor: pointer;
 }
 
-.sidebutton img{
-    width: 40%;
+.but:hover{
+    background-color: rgb(197, 197, 197);
+}
+
+.butimg{
+    height: 30%;
+    align-self: center;
+    display: inline-block;
+    margin-top: 20%;
+}
+
+.buttext{
+    display: inline-block;
+    margin-top: 0px;
 }
